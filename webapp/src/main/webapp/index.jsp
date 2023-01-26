@@ -3,4 +3,4 @@
 <h2> Yup Hey guys this is the "NEW LINE" </h2>
 
 <h2> Rick & Morty <h2>
-<img src="https://wallpapers.com/images/hd/rick-and-morty-season-1-raising-gazorpazorp-5uyh029813bobv70.webp" alt="Rick&Morty">
+<img src="https://www.wallpaperflare.com/avatar-anime-avatar-the-last-airbender-zuko-avatar-wallpaper-ckpkj" alt="Rick&Morty">
